@@ -10,7 +10,7 @@ This project focuses on analyzing customer behavior and purchasing patterns usin
 - How do demographic and regional differences impact bike purchases?
 -  Dashboard Interaction <a href="https://github.com/sikaleg/Bike-Sales-Analysis-MS-Excel-/blob/main/Screenshot%202026-01-29%20102333.png">View Dashboard </a>
 
-# Process
+## Process
 - Verified the dataset for missing values, duplicates, and anomalies, and ensured data consistency by correcting data types, formats, and categorical values where necessary.
 - Performed feature engineering by creating a new Age Bracket column to group customers into meaningful age categories for improved analysis.
 - Created pivot tables based on key business questions and KPIs, using appropriate aggregations such as counts and averages to analyze bike purchasing behavior.
