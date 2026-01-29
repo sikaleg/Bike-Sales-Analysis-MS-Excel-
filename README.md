@@ -29,5 +29,5 @@ This project focuses on analyzing customer behavior and purchasing patterns usin
 ## Conclusion
 This project demonstrates how Microsoft Excel can be effectively used for end-to-end data analysis, from data cleaning to dashboard creation. The insights derived can support data-driven decision-making in sales, marketing, and customer segmentation.
 
-##Author
+## Author
 Godwin Sikale | Data Analyst
