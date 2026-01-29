@@ -8,4 +8,4 @@ This project focuses on analyzing customer behavior and purchasing patterns usin
 - Which customer segments are most likely to purchase bikes?
 - How do income, age, and commute distance affect bike sales?
 - How do demographic and regional differences impact bike purchases?
--  Dashboard Interaction <a href= “ “>View Dashboard </a>
+-  Dashboard Interaction <a href="https://github.com/sikaleg/Bike-Sales-Analysis-MS-Excel-/blob/main/Screenshot%202026-01-29%20102333.png">View Dashboard </a>
