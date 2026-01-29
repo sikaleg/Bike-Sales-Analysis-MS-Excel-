@@ -18,4 +18,5 @@ This project focuses on analyzing customer behavior and purchasing patterns usin
 - Applied slicers (Marital Status, Region, and Education) to enable dynamic filtering and interactive exploration of the data.
 
 ## Dashboard
-![Uploading Screenshot 2026-01-29 102333.png…]()
+<img width="619" height="410" alt="Screenshot 2026-01-29 102333" src="https://github.com/user-attachments/assets/7303b260-93bb-4ddd-8ad4-ddcd83ea5794" />
+
