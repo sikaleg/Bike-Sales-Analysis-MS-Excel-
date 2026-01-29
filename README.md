@@ -20,3 +20,8 @@ This project focuses on analyzing customer behavior and purchasing patterns usin
 ## Dashboard
 <img width="619" height="410" alt="Screenshot 2026-01-29 102333" src="https://github.com/user-attachments/assets/7303b260-93bb-4ddd-8ad4-ddcd83ea5794" />
 
+## Key Insights
+- Middle-aged customers show higher bike purchase rates compared to other age groups.
+- Customers with shorter commute distances are more likely to purchase bikes.
+- Income level and gender play a significant role in bike purchasing behavior.
+- Regional differences affect customer purchasing patterns.
