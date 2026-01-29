@@ -8,3 +8,4 @@ This project focuses on analyzing customer behavior and purchasing patterns usin
 - Which customer segments are most likely to purchase bikes?
 - How do income, age, and commute distance affect bike sales?
 - How do demographic and regional differences impact bike purchases?
+-  Dashboard Interaction <a href= “ “>View Dashboard </a>
