@@ -25,3 +25,9 @@ This project focuses on analyzing customer behavior and purchasing patterns usin
 - Customers with shorter commute distances are more likely to purchase bikes.
 - Income level and gender play a significant role in bike purchasing behavior.
 - Regional differences affect customer purchasing patterns.
+
+## Conclusion
+This project demonstrates how Microsoft Excel can be effectively used for end-to-end data analysis, from data cleaning to dashboard creation. The insights derived can support data-driven decision-making in sales, marketing, and customer segmentation.
+
+##Author
+Godwin Sikale | Data Analyst
