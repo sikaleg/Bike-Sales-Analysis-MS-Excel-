@@ -16,3 +16,6 @@ This project focuses on analyzing customer behavior and purchasing patterns usin
 - Created pivot tables based on key business questions and KPIs, using appropriate aggregations such as counts and averages to analyze bike purchasing behavior.
 - Developed visualizations (2D Column and 2D Line charts) from the pivot tables and merged them into a single interactive dashboard titled Bike Sales Dashboard.
 - Applied slicers (Marital Status, Region, and Education) to enable dynamic filtering and interactive exploration of the data.
+
+## Dashboard
+![Uploading Screenshot 2026-01-29 102333.png…]()
